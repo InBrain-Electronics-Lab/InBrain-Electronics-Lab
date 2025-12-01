@@ -3,12 +3,9 @@ name: Ilke Uguz
 image: images/Ilke.png
 role: Principal Investigator
 affiliation: Stevens Institute of Technology
-aliases:
-  - I. Uguz
-  - I Uguz
 links:
+  email: iuguz@stevens.edu
   home-page: https://www.stevens.edu/profile/iuguz
-  orcid: 
 ---
 
 Dr. Uguz's research mainly focuses on design and development of ultra-flexible and light 
