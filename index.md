@@ -3,7 +3,7 @@
 
 # InBrain-Electronics-Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+The InBrain Electronics Lab is based at Stevens Institute of Technology, affiliated with the Department of Biomedical Engineering. We are designing and developing minimally invasive, ultra-flexible, and highly biocompatible neural implants for recording and stimulation with respect to neurological conditions.
 
 {% include section.html %}
 
