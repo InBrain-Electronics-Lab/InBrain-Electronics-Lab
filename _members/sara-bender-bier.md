@@ -1,5 +1,5 @@
 ---
-name: Sarah Johnson
+name: Sara Bender-Bier
 image: images/Sara.jpg
 role: PhD Student
 links:
