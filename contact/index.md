@@ -22,27 +22,3 @@ Please reach out to us to learn more about opportunities.
   link="https://www.google.com/maps/dir//McLean+Hall,+River+St,+Hoboken,+NJ+07030"
 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
