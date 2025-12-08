@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: Collaborators
 nav:
   order: 2
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Our Collaborators
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are thrilled to work with talented collaborators around the world, who are pushing the boundaries of what is possible in their respective fields.
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,12 +15,20 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Dr. Tiago Costa
+
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## Dr. Claudia Cea
+
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include section.html %}
+
+## Dr. Tobias Abrahamsson
+
+{% include section.html %}
+
