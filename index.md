@@ -34,12 +34,12 @@ We are primarily exploring flexible and injectable organic electronics applicati
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are grateful to have impressive collaborators around the world working with us on several projects.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="Collaborators"
+  text="Learn about our collaborators"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="Collaborators"
+  title="Our Collaborators"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are proud to have a small but mighty team from diverse academic backgrounds.
 
 {%
   include button.html
