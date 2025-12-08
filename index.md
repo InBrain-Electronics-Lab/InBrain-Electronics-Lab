@@ -38,7 +38,7 @@ We are grateful to have impressive collaborators around the world working with u
 
 {%
   include button.html
-  link="Collaborators"
+  link="projects"
   text="Learn about our collaborators"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ We are grateful to have impressive collaborators around the world working with u
 {%
   include feature.html
   image="images/photo.jpg"
-  link="Collaborators"
+  link="projects"
   title="Our Collaborators"
   flip=true
   style="bare"
