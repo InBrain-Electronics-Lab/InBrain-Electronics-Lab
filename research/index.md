@@ -27,7 +27,7 @@ Our research is focused on bioelectronic interfaces for minimally-invasive inbra
 
 ## Highlighted Publications
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+<!-- This section is hidden {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
 
 {% include section.html %}
 
