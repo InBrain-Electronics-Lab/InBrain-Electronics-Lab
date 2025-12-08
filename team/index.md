@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="ilke-uguz.md" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members/ilke-uguz.md" component="portrait" filter="role == 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 {% include figure.html image="images/Ilke.png" %}
@@ -17,13 +17,13 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="jie-dai.md" component="portrait" filter="role != 'PhD Student'" %}
+{% include list.html data="members/jie-dai.md" component="portrait" filter="role != 'PhD Student'" %}
 {% include section.html background="images/background.jpg" dark=true %}
 {% include figure.html image="images/Jie.png" %}
 
 
 {% include section.html %}
-{% include list.html data="sara-bender-bier.md" component="portrait" filter="role != 'PhD Student'" %}
+{% include list.html data="members/sara-bender-bier.md" component="portrait" filter="role != 'PhD Student'" %}
 {% include figure.html image="images/Sara.jpg" %}
 
 
