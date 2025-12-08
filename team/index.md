@@ -9,21 +9,26 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="ilke-uguz.md" component="portrait" filter="role == 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+{% include figure.html image="images/Ilke.png" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+{% include list.html data="jie-dai.md" component="portrait" filter="role != 'PhD Student'" %}
+{% include section.html background="images/background.jpg" dark=true %}
+{% include figure.html image="images/Jie.png" %}
+
+
+{% include section.html %}
+{% include list.html data="sara-bender-bier.md" component="portrait" filter="role != 'PhD Student'" %}
+{% include figure.html image="images/Sara.jpg" %}
+
+
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
