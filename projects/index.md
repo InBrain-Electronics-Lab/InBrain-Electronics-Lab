@@ -18,17 +18,16 @@ We are thrilled to work with talented collaborators around the world, who are pu
 ## Dr. Tiago Costa
 
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## Dr. Claudia Cea
 
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
 {% include section.html %}
 
 ## Dr. Tobias Abrahamsson
+
 
 {% include section.html %}
 
